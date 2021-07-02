@@ -8,5 +8,3 @@ function name2(){
         return "이름2";
 }
 echo name().name2();
-
-?>
